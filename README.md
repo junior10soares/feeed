@@ -13,14 +13,8 @@ A aplicação consiste em uma pagina de feed aonde consegue comentar e visualiza
 
 # Como executar o projeto
 
-# entrar na pasta do projeto front end web
-cd front-web
-
 # instalar dependências
 npm install
 
 # executar o projeto
 npm start / npm run dev
-```
-
-
